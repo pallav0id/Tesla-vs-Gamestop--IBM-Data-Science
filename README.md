@@ -1,10 +1,6 @@
 <img src="https://user-images.githubusercontent.com/84391594/152703941-8c1b3e93-7358-4274-8c7d-b152d3132814.png" alt="Header"/> 
  
-# Python-Project-for-Data-Science---IBM-Data-Science
-
-
- ###  💼 [Final Project : Analyzing Stock Performance and Building a Dashboard](https://github.com/PramodRawat157/Python-Project-for-Data-Science---IBM-Data-Science/blob/main/4%20Final%20Assignment%20-%20Extracting%20and%20Visualizing%20Stock%20Data.ipynb)
- 
+# Python-Project-for-Data-Science---IBM-Data-Science 
 
 
 # 📋 Project Overview
