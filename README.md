@@ -81,7 +81,8 @@ The following Python libraries were used throughout the certification: <br>
 </p> 
 
 <p align="middle">
-  <a href="https://www.coursera.org/account/accomplishments/verify/EHVH7569PKEP"><img src="https://github.com/pallav0id/Uber-Data-Analysis/assets/82913441/3a8fb697-f082-4d7b-926e-e75e47763232" height="430"></a>
+  <a href="https://www.coursera.org/account/accomplishments/verify/EHVH7569PKEP">Verify</a><br>
+ <img src="https://github.com/pallav0id/Uber-Data-Analysis/assets/82913441/3a8fb697-f082-4d7b-926e-e75e47763232" height="430">
 </p>
 
 
